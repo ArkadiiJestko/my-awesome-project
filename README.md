@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://arkadiijestko.github.io/my-awesome-project/)
+- [Публичная страница на GitHub Pages](https://ВАШ_ЛОГИН.github.io/ИМЯ_РЕПОЗИТОРИЯ/)
